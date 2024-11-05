@@ -173,12 +173,7 @@ export default function Portfolio() {
               <div>
                 <h2 className="text-3xl font-bold text-gray-900 mb-4">About</h2>
                 <p className="text-gray-700 mb-4">
-                  Graduating from Colorado State University with a chemistry degree in 2013, I landed an
-                  opportunity to work at the forefront of analytical quantification methodologies for cannabis at
-                  Nordic Analytic. Being in the first state to legalize cannabis in the U.S., I was among the
-                  pioneering chemists in the cannabis testing industry, helping shape the methodologies we
-                  use today. I&apos;m honored that my potency testing methodology was chosen by the state of
-                  Colorado as the industry standard.
+                 In 2025, I graduated from the SCAD College of Engineering and Technology at Anna University with a degree in Computer Science and Engineering. Eager to apply my skills in the tech industry, I quickly stepped into the role of a full stack developer. In this capacity, I have had the opportunity to work on diverse projects, integrating both front-end and back-end technologies to create seamless user experiences. My training has equipped me with a solid foundation in various programming languages and frameworks, allowing me to contribute effectively to innovative software solutions. I am excited about the possibilities that lie ahead in my career and look forward to making a meaningful impact in the tech world.
                 </p>
               </div>
             </div>
