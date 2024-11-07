@@ -196,7 +196,7 @@ export default function Portfolio() {
  
     {/* Right Side - Tech Stack */}
     <div className="grid grid-cols-3 gap-3 max-w-2xl mx-auto md:ml-auto md:mt-0 mt-8">
-      {technologies.map((tech, index) => (
+      {technologies.map((tech) => (
         <div
           key={tech.name}
           className={`relative p-4 rounded-lg ${tech.position} group`}
